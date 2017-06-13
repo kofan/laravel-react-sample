@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: SgyAnalytics
+        psr4_prefix: SgyAnalytics
+        src_path: app
